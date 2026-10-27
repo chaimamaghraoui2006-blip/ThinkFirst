@@ -1,0 +1,6 @@
+{
+  "name": "THINK//FIRST — Independent Problem-Solving Workspace",
+  "description": "Understand the problem, test your thinking, and own your solution. An independent educational workspace that breaks down algorithmic challenges and flags line-level errors without AI handholding or code generation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
